@@ -8,7 +8,7 @@ This piece of software has been replaced by [ls.terminal.ink](https://ls.termina
 Add your bot [via the E-Zed editor](https://discordbots.co.uk/edit)
 
 ## Deploy
-- [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/terminal/discord_fork)
+- [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/EvanHanna12/Discordbotlist)
   - By creating a fork, you accept the terms of the LICENCE.
 - [View builds](https://app.netlify.com/sites/discordbots/deploys)
 
