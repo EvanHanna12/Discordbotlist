@@ -21,7 +21,7 @@ gatsby develop
   Start the development server
 
 gatsby build
-  Build Discord_Fork
+  Build Discordbotlist
 ```
 
 ## First Setup
